@@ -1,0 +1,202 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+hr{
+    width:5%;
+}
+.images{
+    margin-left: 200px;
+    display: flex;
+
+}
+img{
+    width: 290px;
+    height: 130px;
+    margin-top:0px;
+    border-radius: 5px;
+   
+}
+#head{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+h3{
+    text-align: center;
+    /* margin-bottom: 30px; */
+    font-family: 'Ubuntu', sans-serif;
+    font-size: small;
+
+}
+p{
+    text-align: center;
+    font-size: small;
+    font-family: 'Ubuntu', sans-serif;
+    color: darkgrey;
+}
+.rows{
+    margin-top: 20px;
+     /* display: flex;  */
+     
+
+}
+.rows1{
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.rows2{
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+
+.sear{
+    display: block;
+}
+#sorry{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 40px; 
+    font-size: xx-large;
+    display: none;
+    color: red;
+} 
+i{
+    color: red;
+}
+
+.sry{
+    display: block;
+}
+
+/* ------------------------------------ */
+
+#main{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main1{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main2{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main3{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main4{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main5{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main6{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main7{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#main8{
+    display: flex;
+    gap: 30px;
+    margin-left: 250px;
+    margin-top: 70px;
+    /* display: none; */
+}
+#sub_head{
+    color: rgb(113, 120, 121);
+    font-size:medium;
+    margin-top:0px;
+    padding: 0px;
+    
+}
+#d-table{
+    width: 400px;
+    height: 400px;
+}
+#d_content{
+    width:80%;
+}
+#home_link{
+    width: 10%;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 550px;
+    margin-top: 20px;
+    background-color: rgb(119, 0, 255);
+    color: rgb(200, 211, 157);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#add{
+    width: 20%;
+    height: 25px;
+    border-radius: 4px;
+    background-color: rgb(161, 101, 230);
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(200, 211, 157);
+}
+.dots{
+    margin: 0; display: flex; gap: 10px;
+    height: 7px;
+    padding-top: 5px;
+}
+.dot {
+    width: 10px; height: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
+#price {
+    margin: 0; padding-top:0px;
+}
+
+
+.block{
+    display: block;
+}
+.none{
+    display: none;
+}
+
+input{
+    /* width: 0%; */
+    height: 30px;
+    margin-top: 20px;
+    background-color: rgb(224, 228, 228);
+}
+
+.container{
+    margin-right:80px ;
+}
